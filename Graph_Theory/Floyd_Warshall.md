@@ -29,8 +29,8 @@
 - 초기 조건 (k=0)  
   <br>
   <code>
-  D<sup>(0)</sup>[i][j] =  
-    0    if i = j  
+  D<sup>(0)</sup>[i][j] = 0
+ if i = j  
     w(i, j)    if (i, j)∈E  
     &infin;    otherwise
   </code>
